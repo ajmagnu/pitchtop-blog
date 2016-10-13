@@ -19,7 +19,7 @@ Tags:
 
 /* body */
 
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,300i,400,400i,600i,700|Lato:300,400,700|Righteous');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,300i,400,400i,600i,700|Playfair+Display|Righteous');
 body {
 	background-color:#24272A;
 	font-family:'Josefin Sans', sans-serif;
@@ -185,6 +185,7 @@ article h4, article h3 {
 }
 
 article .entry-content>p, article .entry-content section>p {
+	font-family: 'Playfair Display', serif;
 	  -webkit-font-smoothing: antialiased;
 	  color:#000000;
 }
