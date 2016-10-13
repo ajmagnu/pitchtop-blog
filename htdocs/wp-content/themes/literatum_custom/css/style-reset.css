@@ -20,6 +20,10 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 	padding: 0;
 	vertical-align: baseline;
 }
+label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    font-family: 'Playfair Display', serif;
+    color:#000000;
+}
 html {
 	font-size: 62.5%; /* Corrects text resizing oddly in IE6/7 when body font-size is set using em units http://clagnut.com/blog/348/#c790 */
 	overflow-y: scroll; /* Keeps page centered in all browsers regardless of content height */
