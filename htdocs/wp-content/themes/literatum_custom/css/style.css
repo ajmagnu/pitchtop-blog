@@ -19,8 +19,7 @@ Tags:
 
 /* body */
 
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,300i,400,400i,600i,700|Righteous|Varela+Round');
-
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,300i,400,400i,600i,700|Lato:300,400,700|Righteous');
 body {
 	background-color:#24272A;
 	font-family:'Josefin Sans', sans-serif;
@@ -31,7 +30,8 @@ body {
 }
 
 article .entry-content>p, article .entry-content section>p {
-	font-family:'Varela Round', serif;
+	font-family:'Lato', serif;
+	  -webkit-font-smoothing: antialiased;
 }
 
 
