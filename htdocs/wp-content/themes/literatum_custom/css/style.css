@@ -21,12 +21,18 @@ Tags:
 
 body {
 	background-color:#24272A;
+	font-family:'Josefin Sans', sans-serif;
 }
 
 #content {
 	background-color: #F7EFCB;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Righteous');
+
+article .entry-content>p, article .entry-content section>p {
+	font-family:'Josefin Sans', sans-serif;
+}
 
 
 
