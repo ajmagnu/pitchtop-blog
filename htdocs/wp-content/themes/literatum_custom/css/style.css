@@ -25,17 +25,6 @@ body {
 	font-family:'Josefin Sans', sans-serif;
 }
 
-#content {
-	background-color: #ffffff;
-}
-
-article .entry-content>p, article .entry-content section>p {
-	font-family:'Lato', serif;
-	  -webkit-font-smoothing: antialiased;
-}
-
-
-
 /* fix for safari sub pixels */
 .content-area {
 	width:100%;
@@ -183,4 +172,19 @@ div#google-comments > iframe {
 		display:none !important;
 	}
 
+}
+
+article h4, article h3 {
+    font-family: 'Josefin Sans';
+    font-weight: bold;
+    font-style: italic;
+}
+
+#content {
+	background-color: #ffffff;
+}
+
+article .entry-content>p, article .entry-content section>p {
+	  -webkit-font-smoothing: antialiased;
+	  color:#000000;
 }
