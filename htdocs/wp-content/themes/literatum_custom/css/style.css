@@ -19,7 +19,7 @@ Tags:
 
 /* body */
 
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300i,400,400i,600i|Oswald:300|Righteous');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,300i,400,400i,600i,700|Righteous|Varela+Round');
 
 body {
 	background-color:#24272A;
@@ -31,7 +31,7 @@ body {
 }
 
 article .entry-content>p, article .entry-content section>p {
-	font-family:'Oswald', serif;
+	font-family:'Varela Round', serif;
 }
 
 
