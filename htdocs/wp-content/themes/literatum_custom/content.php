@@ -5,8 +5,9 @@
 ?>
 
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-<div style="float:left;height:5px;width:20%;margin:0;background-color:#f60" class="bg_adrien orange"></div><div style="float:left;height:5px;width:20%;margin:0;background-color:#f7efcb" class="bg_adrien orange"></div><div style="float:left;height:5px;width:20%;margin:0;background-color:#afd5bd" class="bg_adrien orange"></div><div style="float:left;height:5px;width:20%;margin:0;background-color:#56a49f" class="bg_adrien orange"></div><div style="float:left;height:5px;width:20%;margin:0;background-color:#1e1b10" class="bg_adrien orange">
+
 	<header class="entry-header">
+	<div style="float:left;height:5px;width:20%;margin:0;background-color:#f60" class="bg_adrien orange"></div><div style="float:left;height:5px;width:20%;margin:0;background-color:#f7efcb" class="bg_adrien orange"></div><div style="float:left;height:5px;width:20%;margin:0;background-color:#afd5bd" class="bg_adrien orange"></div><div style="float:left;height:5px;width:20%;margin:0;background-color:#56a49f" class="bg_adrien orange"></div><div style="float:left;height:5px;width:20%;margin:0;background-color:#1e1b10" class="bg_adrien orange">
 		<?php the_title( sprintf( '<h1 class="entry-title"><a href="%s" rel="bookmark">', esc_url( get_permalink() ) ), '</a></h1>' ); ?>
 
 		<?php if ( 'post' == get_post_type() ) : ?>
