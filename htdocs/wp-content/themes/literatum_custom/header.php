@@ -26,7 +26,7 @@
 <div id="page" class="hfeed site">
 <!--<![endif]-->
 	
-	
+
 
 
 
@@ -38,10 +38,6 @@
 
     <!-- Push Wrapper -->
     <div class="mp-pusher " id="mp-pusher">
-<div style="float:left;height:5px;width:20%;margin:0;background-color:#f60" class="bg_adrien orange"></div><div style="float:left;height:5px;width:20%;margin:0;background-color:#f7efcb" class="bg_adrien orange"></div><div style="float:left;height:5px;width:20%;margin:0;background-color:#afd5bd" class="bg_adrien orange"></div><div style="float:left;height:5px;width:20%;margin:0;background-color:#56a49f" class="bg_adrien orange"></div><div style="float:left;height:5px;width:20%;margin:0;background-color:#1e1b10" class="bg_adrien orange">
-<div style="clear:both"></div>
-
-
 
  
         <!-- /mp-menu -->
