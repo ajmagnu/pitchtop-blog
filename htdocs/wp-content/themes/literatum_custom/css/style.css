@@ -19,7 +19,7 @@ Tags:
 
 /* body */
 
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,300i,400,400i,600i,700|Playfair+Display|Righteous');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,300i,400,400i,600i,700|Droid+Serif:400,400i,700|Righteous');
 body {
 	background-color:#24272A;
 	font-family:'Josefin Sans', sans-serif;
@@ -177,7 +177,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     font-family: 'Josefin Sans', sans-serif;
 }
 label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Droid Serif', serif;
     color:#000000;
 }
 
@@ -207,7 +207,7 @@ article .entry-content > p, article .entry-content section > p {
 }
 
 article .entry-content>p, article .entry-content section>p {
-	font-family: 'Playfair Display', serif;
+	font-family: 'Droid Serif', serif;
 	  -webkit-font-smoothing: antialiased;
 	  font-size: 19px;
 	  color:#000000;
