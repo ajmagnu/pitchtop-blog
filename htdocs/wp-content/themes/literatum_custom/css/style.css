@@ -206,7 +206,7 @@ article .entry-content > p, article .entry-content section > p {
     margin: 0px auto 35px;
 }
 
-article .entry-content>p, article .entry-content section>p ,article ul li, article ol li {
+article .entry-content>p, article .entry-content section>p, article ul li, article ol li {
 	font-family: 'Droid Serif', serif;
 	  -webkit-font-smoothing: antialiased;
 	  font-size: 19px;
