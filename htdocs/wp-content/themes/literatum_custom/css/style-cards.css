@@ -617,6 +617,8 @@ text-align:center;
 .article-card.squarebig > .inner  .inner .post-subtitle {
 	font-size:22pt;
 	line-height:1.3em;
+    font-style: italic;
+	font-weight: 400;
 }
 
 
