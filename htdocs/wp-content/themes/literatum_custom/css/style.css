@@ -212,3 +212,8 @@ article .entry-content>p, article .entry-content section>p, article ul li, artic
 	  font-size: 19px;
 	  color:#000000;
 }
+
+#disqus_thread {
+	padding-right:20px !important;
+	padding-left:20px !important;
+	}
