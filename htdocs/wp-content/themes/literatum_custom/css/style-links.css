@@ -2,7 +2,7 @@
 5.1 Links
 --------------------------------------------------------------*/
 a {
-	color: royalblue;
+	color: #FF6600; /*royalblue;*/
 }
 /* a:visited {
 	color: purple;
@@ -10,5 +10,5 @@ a {
 a:hover,
 a:focus,
 a:active {
-	color: midnightblue;
+	color: #FF6600; /*midnightblue;*/
 }
